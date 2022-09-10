@@ -1,6 +1,6 @@
 <h1>
   <a href="">
-    <img src="" width="35" height="35">
+    <img src="https://github.com/riceset/riceset/blob/main/assets/wave.gif" width="35" height="35">
   </a>
   Welcome!
 </h1>
