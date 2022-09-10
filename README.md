@@ -1,4 +1,10 @@
-# 👋 Welcome!
+<h1>
+  <a href="">
+    <img src="" width="35" height="35">
+  </a>
+  Welcome!
+</h1>
+
 I'm a student at 🗼[42 Tokyo](https://42tokyo.jp/) currenly going to [42 São Paulo](https://www.42sp.org.br/)'s campus in 🇧🇷 Brazil.
 
 ## GitHub Status
