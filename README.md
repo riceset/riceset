@@ -1,9 +1,4 @@
-<h1>
-  <a href="">
-    <img src="https://github.com/riceset/riceset/blob/main/assets/wave.gif" width="35" height="35">
-  </a>
-  Welcome!
-</h1>
+# 👋 Welcome!
 
 I am a software engineering student from École 🗼[42 Tokyo](https://42tokyo.jp/) currently going to [42 São Paulo](https://www.42sp.org.br/)'s campus in 🇧🇷 Brazil.
 
