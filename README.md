@@ -5,7 +5,7 @@
   Welcome!
 </h1>
 
-I am a student from 🗼[42 Tokyo](https://42tokyo.jp/) currenly going to [42 São Paulo](https://www.42sp.org.br/)'s campus in 🇧🇷 Brazil.
+I am a software engineering student from École 🗼[42 Tokyo](https://42tokyo.jp/) currently going to the [42 São Paulo](https://www.42sp.org.br/) campus in 🇧🇷 Brazil.
 
 ## GitHub Status
 [![status](https://raw.githubusercontent.com/riceset/github-stats-transparent/output/generated/overview.svg)](#)
