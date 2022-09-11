@@ -19,7 +19,7 @@ I am a software engineering student from École 🗼[42 Tokyo](https://42tokyo.j
 [![GNL](https://github.com/riceset/riceset/blob/main/42_badges/get_next_linem.png)](https://github.com/riceset/get_next_line)
 [![ft_printf](https://github.com/riceset/riceset/blob/main/42_badges/ft_printfe.png)](https://github.com/riceset/ft_printf)
 [![B2B](https://github.com/riceset/riceset/blob/main/42_badges/born2beroote.png)](#)
-[![minitalk](https://github.com/riceset/riceset/blob/main/42_badges/minitalkm.png)](https://github.com/riceset/minitalk)
+[![minitalk](https://github.com/riceset/riceset/blob/main/42_badges/minitalke.png)](https://github.com/riceset/minitalk)
 [![push_swap](https://github.com/riceset/riceset/blob/main/42_badges/push_swape.png)](https://github.com/riceset/push_swap)
 
 </div>
