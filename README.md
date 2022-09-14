@@ -2,11 +2,18 @@
 
 I am a software engineering student from École 🗼[42 Tokyo](https://42tokyo.jp/) currently going to [42 São Paulo](https://www.42sp.org.br/)'s campus in 🇧🇷 Brazil.
 
-## GitHub Status
+## 🌱 Languages
+
+- 🇯🇵 Japanese (JLPT N1)
+- 🇺🇸 American English (CEFR C1)
+- 🇧🇷 Brazilian Portuguese (native speaker)
+- 🇨🇳 Mandarin Chinese (HSK 3)
+
+## 🎉 GitHub Status
 [![status](https://raw.githubusercontent.com/riceset/github-stats-transparent/output/generated/overview.svg)](#)
 [![languages](https://raw.githubusercontent.com/riceset/github-stats-transparent/output/generated/languages.svg)](#)
 
-## 42 Projects
+## 🚀 42 Projects
 
 <div align="center">
 
