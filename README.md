@@ -1,6 +1,6 @@
 # 👋 Welcome!
 
-I am a software engineering student from École 🗼[42 Tokyo](https://42tokyo.jp/) currently going to [42 São Paulo](https://www.42sp.org.br/)'s campus in 🇧🇷 Brazil.
+I am a Japanese language teacher and software engineering student from École 🗼[42 Tokyo](https://42tokyo.jp/). Currently at the [São Paulo](https://www.42sp.org.br/) campus in Brazil.
 
 ## 🌱 Languages
 
