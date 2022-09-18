@@ -8,6 +8,7 @@ I am a software engineering student from École 🗼[42 Tokyo](https://42tokyo.j
 - 🇺🇸 American English (CEFR C1)
 - 🇧🇷 Brazilian Portuguese (native speaker)
 - 🇨🇳 Mandarin Chinese (HSK 3)
+- 🇰🇷 Korean (beginner)
 
 ## 🎉 GitHub Status
 [![status](https://raw.githubusercontent.com/riceset/github-stats-transparent/output/generated/overview.svg)](#)
