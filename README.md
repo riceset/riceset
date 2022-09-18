@@ -6,8 +6,8 @@ I am a Japanese language teacher and software engineering student from École �
 
 - 🇯🇵 Japanese ([JLPT N1](https://www.jlpt.jp/e/about/levelsummary.html))
 - 🇺🇸 American English ([CEFR C1](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale))
-- 🇧🇷 Brazilian Portuguese (native speaker)
 - 🇨🇳 Mandarin Chinese ([HSK 3](http://www.chinesetest.cn/gosign.do?id=1&lid=0#))
+- 🇧🇷 Brazilian Portuguese (native speaker)
 - 🇰🇷 Korean (beginner)
 
 ## 🎉 GitHub Status
