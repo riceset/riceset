@@ -14,7 +14,7 @@ I am a Japanese language teacher and software engineering student from École �
 [![status](https://raw.githubusercontent.com/riceset/github-stats-transparent/output/generated/overview.svg)](#)
 [![languages](https://raw.githubusercontent.com/riceset/github-stats-transparent/output/generated/languages.svg)](#)
 
-## 🚀 42 Projects
+## 🚀 École 42 Projects
 
 <div align="center">
 
