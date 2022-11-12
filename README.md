@@ -25,7 +25,7 @@ I am a Japanese language teacher and software engineering student from Ã‰cole ðŸ
 [![fract-ol](https://github.com/riceset/riceset/blob/main/42_badges/fract-olm.png)](https://github.com/riceset/fract-ol)
 [![minitalk](https://github.com/riceset/riceset/blob/main/42_badges/minitalkm.png)](https://github.com/riceset/minitalk)
 [![push_swap](https://github.com/riceset/riceset/blob/main/42_badges/push_swape.png)](https://github.com/riceset/push_swap)
-[![minishell](https://github.com/riceset/riceset/blob/main/42_badges/minishelle.png)](https://github.com/unilui/42_minishell)
+[![minishell](https://github.com/riceset/riceset/blob/main/42_badges/minishelln.png)](https://github.com/riceset/minishell)
 
 <!---
 [![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/philosopherse.png)](https://github.com/riceset/philosophers)
