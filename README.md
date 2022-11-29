@@ -18,6 +18,7 @@ I am a Japanese language teacher and software engineering student from Ã‰cole ðŸ
 
 <div align="center">
 
+ [![phase_one](https://github.com/riceset/riceset/blob/main/42_badges/phase_onem.png)](#)
 [![Libft](https://github.com/riceset/riceset/blob/main/42_badges/libftm.png)](https://github.com/riceset/libft)
 [![GNL](https://github.com/riceset/riceset/blob/main/42_badges/get_next_linem.png)](https://github.com/riceset/get_next_line)
 [![ft_printf](https://github.com/riceset/riceset/blob/main/42_badges/ft_printfe.png)](https://github.com/riceset/ft_printf)
