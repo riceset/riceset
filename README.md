@@ -5,7 +5,7 @@ I am a Japanese language teacher and software engineering student from École �
 ## 🌱 Languages
 
 - 🇯🇵 Japanese (JLPT N1)
-- 🇺🇸 American English (CEFR C1)
+- 🇺🇸 American English (CEFR C1~C2)
 - 🇨🇳 Mandarin Chinese (普通话 | HSK3~4)
 - 🇹🇼 Taiwanese Mandarin Chinese (華語)
 - 🇧🇷 Brazilian Portuguese (native speaker)
