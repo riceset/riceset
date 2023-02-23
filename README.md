@@ -6,8 +6,8 @@ I am a Japanese language teacher and software engineering student from École �
 
 - 🇯🇵 Japanese (JLPT N1)
 - 🇺🇸 American English (CEFR C1)
-- 🇨🇳 Mandarin Chinese (HSK 3)
-- 🇹🇼 Taiwanese Mandarin Chinese
+- 🇨🇳 Mandarin Chinese (普通话 | HSK3~4)
+- 🇹🇼 Taiwanese Mandarin Chinese (華語)
 - 🇧🇷 Brazilian Portuguese (native speaker)
 - 🇰🇷 Korean (beginner)
 
