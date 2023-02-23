@@ -9,6 +9,7 @@ I am a Japanese language teacher and software engineering student from École �
 - 🇨🇳 Mandarin Chinese (普通话 | HSK3~HSK4)
 - 🇹🇼 Taiwanese Mandarin Chinese (華語)
 - 🇧🇷 Brazilian Portuguese (native speaker)
+- 🇪🇸 Spanish (intermediate)
 - 🇰🇷 Korean (beginner)
 
 ## 🎉 GitHub Status
