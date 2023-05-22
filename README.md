@@ -1,16 +1,14 @@
 # 👋 Welcome!
 
-I am a Japanese language teacher and software engineering student from École 🗼[42 Tokyo](https://42tokyo.jp/), currently at the [São Paulo](https://www.42sp.org.br/) campus in 🇧🇷 Brazil.
+I am a software engineering student from École 🗼[42 Tokyo](https://42tokyo.jp/), currently at the [São Paulo](https://www.42sp.org.br/) campus in 🇧🇷 Brazil.
 
 ## 🌱 Languages
 
 - 🇯🇵 Japanese (JLPT N1)
 - 🇺🇸 American English (CEFR C1~C2)
 - 🇨🇳 Mandarin Chinese (普通话 | HSK3~HSK4)
-- 🇹🇼 Taiwanese Mandarin Chinese (華語)
 - 🇧🇷 Brazilian Portuguese (native speaker)
 - 🇪🇸 Spanish (intermediate)
-- 🇰🇷 Korean (beginner)
 
 ## 🎉 GitHub Status
 [![status](https://raw.githubusercontent.com/riceset/github-stats-transparent/output/generated/overview.svg)](#)
