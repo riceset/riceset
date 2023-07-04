@@ -28,7 +28,8 @@ I am currently a software engineering student at École 🗼[42 Tokyo](https://4
 [![fract-ol](https://github.com/riceset/riceset/blob/main/42_badges/fract-olm.png)](https://github.com/riceset/fract-ol)
 [![minitalk](https://github.com/riceset/riceset/blob/main/42_badges/minitalkm.png)](https://github.com/riceset/minitalk)
 [![push_swap](https://github.com/riceset/riceset/blob/main/42_badges/push_swape.png)](https://github.com/riceset/push_swap)
-[![minishell](https://github.com/riceset/riceset/blob/main/42_badges/minishelln.png)](https://github.com/Guiribei/my_shell)
+[![minishell](https://github.com/riceset/riceset/blob/main/42_badges/minishelle.png)](https://github.com/Guiribei/my_shell)
+[![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/philosophersn.png)](https://github.com/riceset/philosophers)
 
 <!---
 [![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/philosopherse.png)](https://github.com/riceset/philosophers)
