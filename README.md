@@ -1,12 +1,12 @@
 # 👋 Welcome!
 
-I am currently a software engineering student at École 🗼[42 Tokyo](https://42tokyo.jp/) (formerly also at 🇧🇷 [42 São Paulo](https://www.42sp.org.br)) and a student at 🇯🇵 [Tokyo University of Foreign Studies (TUFS)](http://www.tufs.ac.jp).
+I am currently a software engineering student at École 🗼[42 Tokyo](https://42tokyo.jp/) (formerly also at 🇧🇷 [42 São Paulo](https://www.42sp.org.br)) and at 🇯🇵 [Tokyo University of Foreign Studies (TUFS)](http://www.tufs.ac.jp).
 
 ## 🌱 Languages
 
 - 🇯🇵 Japanese (JLPT N1)
 - 🇺🇸 American English (CEFR C1~C2)
-- 🇨🇳 Mandarin Chinese (普通话 | HSK3~HSK4)
+- 🇨🇳 Mandarin Chinese (HSK3~HSK4)
 - 🇧🇷 Brazilian Portuguese (native speaker)
 - 🇪🇸 Spanish (intermediate)
 
