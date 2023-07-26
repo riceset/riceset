@@ -23,12 +23,12 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 
 <div align="center">
 
-[![Libft](https://github.com/riceset/riceset/blob/main/42_badges/libftm.png)](https://github.com/riceset/libft)
-[![GNL](https://github.com/riceset/riceset/blob/main/42_badges/get_next_linem.png)](https://github.com/riceset/get_next_line)
+[![Libft](https://github.com/riceset/riceset/blob/main/42_badges/libfte.png)](https://github.com/riceset/libft)
+[![GNL](https://github.com/riceset/riceset/blob/main/42_badges/get_next_linee.png)](https://github.com/riceset/get_next_line)
 [![ft_printf](https://github.com/riceset/riceset/blob/main/42_badges/ft_printfe.png)](https://github.com/riceset/ft_printf)
 [![B2B](https://github.com/riceset/riceset/blob/main/42_badges/born2beroote.png)](#)
-[![fract-ol](https://github.com/riceset/riceset/blob/main/42_badges/fract-olm.png)](https://github.com/riceset/fract-ol)
-[![minitalk](https://github.com/riceset/riceset/blob/main/42_badges/minitalkm.png)](https://github.com/riceset/minitalk)
+[![fract-ol](https://github.com/riceset/riceset/blob/main/42_badges/fract-ole.png)](https://github.com/riceset/fract-ol)
+[![minitalk](https://github.com/riceset/riceset/blob/main/42_badges/minitalke.png)](https://github.com/riceset/minitalk)
 [![push_swap](https://github.com/riceset/riceset/blob/main/42_badges/push_swape.png)](https://github.com/riceset/push_swap)
 [![minishell](https://github.com/riceset/riceset/blob/main/42_badges/minishelle.png)](https://github.com/Guiribei/my_shell)
 [![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/philosophersn.png)](https://github.com/riceset/philosophers)
