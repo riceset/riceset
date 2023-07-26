@@ -29,6 +29,6 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 [![minitalk](https://github.com/riceset/riceset/blob/main/42_badges/minitalke.png)](https://github.com/riceset/minitalk)
 [![push_swap](https://github.com/riceset/riceset/blob/main/42_badges/push_swape.png)](https://github.com/riceset/push_swap)
 [![minishell](https://github.com/riceset/riceset/blob/main/42_badges/minishelle.png)](https://github.com/Guiribei/my_shell)
-[![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/philosophersn.png)](https://github.com/riceset/philosophers)
+[![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/philosopherse.png)](https://github.com/riceset/philosophers)
 
 </div>
