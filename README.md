@@ -1,7 +1,7 @@
 <h1>
-  <picture>
+  <a href="#">
     <img src='https://github.com/riceset/riceset/assets/48802655/9ae1df79-1002-4e33-9688-f1f4b9863d30' usemap="" alt='Hi' width="35"/>
-  </picture>
+  </a>
   Welcome!
 </h1>
 
