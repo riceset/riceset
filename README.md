@@ -1,4 +1,9 @@
-<h1> <a href="#"><img src='https://github.com/riceset/riceset/assets/48802655/9ae1df79-1002-4e33-9688-f1f4b9863d30' alt='Hi' width="35"/></a> Welcome! </h1>
+<h1>
+  <picture>
+    <img src='https://github.com/riceset/riceset/assets/48802655/9ae1df79-1002-4e33-9688-f1f4b9863d30' usemap="" alt='Hi' width="35"/>
+  </picture>
+  Welcome!
+</h1>
 
 I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), currently attending the 🗼 [Tokyo campus](https://42tokyo.jp/). I am also an university student at 🇯🇵 [Tokyo University of Foreign Studies (TUFS)](http://www.tufs.ac.jp), with a previous academic stint at 🇧🇷 [42 São Paulo](https://www.42sp.org.br).
 
