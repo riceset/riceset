@@ -14,7 +14,7 @@ I am currently a software engineering student at École 🗼[42 Tokyo](https://4
 [![status](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/overview.svg)](#)
 [![languages](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/languages.svg)](#)
 
-## 🚀 École 42 Projects
+## 🚀 [École 42](https://42.fr/) Badges
 
 <div align="center">
 
