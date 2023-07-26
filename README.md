@@ -11,8 +11,8 @@ I am currently a software engineering student at École 🗼[42 Tokyo](https://4
 - 🇪🇸 Spanish (intermediate)
 
 ## 🎉 GitHub Status
-[![status](https://raw.githubusercontent.com/riceset/github-stats-transparent/output/generated/overview.svg)](#)
-[![languages](https://raw.githubusercontent.com/riceset/github-stats-transparent/output/generated/languages.svg)](#)
+[![status](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/overview.svg)](#)
+[![languages](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/languages.svg)](#)
 
 ## 🚀 École 42 Projects
 
