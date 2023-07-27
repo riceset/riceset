@@ -1,5 +1,5 @@
 <h1>
-  <a href="https://github.com/riceset/"><img src='https://github.com/riceset/riceset/assets/48802655/9ae1df79-1002-4e33-9688-f1f4b9863d30' usemap="" alt='Hi' width="35"/></a>
+  <a href="#"><img src='https://github.com/riceset/riceset/assets/48802655/9ae1df79-1002-4e33-9688-f1f4b9863d30' usemap="" alt='Hi' width="35"/></a>
   Welcome!
 </h1>
 
@@ -48,4 +48,4 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 </div>
 
 
-<a href="https://github.com/riceset/"><img align='right' src='https://github-production-user-asset-6210df.s3.amazonaws.com/48802655/256495848-7dc374e6-4ba4-442f-887f-de6898a052f8.gif' width='60'></a>
+<a href="#"><img align='right' src='https://github-production-user-asset-6210df.s3.amazonaws.com/48802655/256495848-7dc374e6-4ba4-442f-887f-de6898a052f8.gif' width='60'></a>
