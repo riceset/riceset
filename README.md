@@ -46,3 +46,5 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 [![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/philosopherse.png)](https://github.com/riceset/philosophers)
 
 </div>
+
+<a href="https://github.com/riceset/"><img align='right' src='https://github.com/riceset/riceset/assets/48802655/b5fceee1-c977-4b96-bb73-b5b473f1d7c8' width='60'></a>
