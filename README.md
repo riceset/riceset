@@ -7,14 +7,15 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 
 ##
 
-### Latest blog posts
+### ✨ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding the stack data structure](https://riceset.com/articles/understanding-the-stack-data-structure/)
 - [Understanding signals in Linux](https://riceset.com/articles/signals/)
 - [Introduction to Vim](https://riceset.com/articles/introduction-to-vim/)
 <!-- BLOG-POST-LIST:END -->
-### YouTube
+
+### 🎙 YouTube
 - [Vim tutorial at 42 São Paulo's Fora da Norma podcast](https://www.youtube.com/watch?v=10BSs7UGBtY)
 - [Introduction to linked lists in C](https://www.youtube.com/watch?v=5AsUZgGCG3c)
 
