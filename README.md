@@ -7,7 +7,7 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 
 ##
 
-### 📕 Blog
+### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding the stack data structure](https://riceset.com/articles/understanding-the-stack-data-structure/)
