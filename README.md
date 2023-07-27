@@ -16,7 +16,7 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎙 YouTube
-- [Vim tutorial at 42 São Paulo's 'Fora da Norma' podcast](https://www.youtube.com/watch?v=10BSs7UGBtY)
+- [Vim tutorial at 42 São Paulo's Fora da Norma podcast](https://www.youtube.com/watch?v=10BSs7UGBtY)
 - [Introduction to linked lists in C](https://www.youtube.com/watch?v=5AsUZgGCG3c)
 
 ## 🌱 Languages
