@@ -5,6 +5,8 @@
 
 I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), currently attending the 🗼 [Tokyo campus](https://42tokyo.jp/). I am also an university student at 🇯🇵 [Tokyo University of Foreign Studies (TUFS)](http://www.tufs.ac.jp), with a previous academic stint at 🇧🇷 [42 São Paulo](https://www.42sp.org.br).
 
+##
+
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
