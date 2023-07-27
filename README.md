@@ -11,8 +11,6 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 - [Understanding the stack data structure](https://riceset.com/articles/understanding-the-stack-data-structure/)
 - [Understanding signals in Linux](https://riceset.com/articles/signals/)
 - [Introduction to Vim](https://riceset.com/articles/introduction-to-vim/)
-- [How to enable image preview on Ranger using Kitty](https://riceset.com/articles/how-to-enable-image-preview-on-ranger-using-kitty/)
-- [Introduction to pointers in C](https://riceset.com/articles/introduction-to-pointers-in-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Languages
