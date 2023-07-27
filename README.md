@@ -48,5 +48,4 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 </div>
 
 
-<a href="https://github.com/riceset/"><img align='right' src='https://user-images.githubusercontent.com/48802655/110702518-5fc7a700-81d1-11eb-9bff-35a31eb4f6d0.gif' width='60'></a>
-
+<a href="https://github.com/riceset/"><img align='right' src='https://github-production-user-asset-6210df.s3.amazonaws.com/48802655/256495848-7dc374e6-4ba4-442f-887f-de6898a052f8.gif' width='60'></a>
