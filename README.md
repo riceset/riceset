@@ -10,9 +10,9 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An approach to solving the dining philosophers problem](https://riceset.com/articles/philosophers/)
 - [Understanding the stack data structure](https://riceset.com/articles/understanding-the-stack-data-structure/)
 - [Understanding signals in Linux](https://riceset.com/articles/signals/)
-- [Introduction to Vim](https://riceset.com/articles/introduction-to-vim/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎙 YouTube
