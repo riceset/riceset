@@ -24,8 +24,8 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 - 🇯🇵 Japanese (JLPT N1)
 - 🇺🇸 American English (CEFR C1~C2)
 - 🇨🇳 Mandarin Chinese (HSK3~HSK4)
-- 🇧🇷 Brazilian Portuguese (Native Speaker)
-- 🇪🇸 Spanish (Intermediate Level)
+- 🇧🇷 Brazilian Portuguese (Native)
+- 🇪🇸 Spanish (Intermediate)
 
 ## 🎉 GitHub Status
 
