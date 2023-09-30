@@ -14,6 +14,7 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🎙 YouTube </h3>
+
 - [Vim tutorial at 42 São Paulo's podcast](https://www.youtube.com/watch?v=10BSs7UGBtY)
 - [Introduction to linked lists in C](https://www.youtube.com/watch?v=5AsUZgGCG3c)
 
