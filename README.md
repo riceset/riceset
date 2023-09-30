@@ -5,7 +5,7 @@
 
 I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), currently attending the 🗼 [Tokyo campus](https://42tokyo.jp/). I am also a university student at 🇯🇵 [Tokyo University of Foreign Studies](http://www.tufs.ac.jp) (TUFS). In 2021, I completed 🌳 Harvard University's introduction to Computer Science course, [CS50](https://github.com/riceset/Harvard-CS50), and had a previous academic stint at 🇧🇷 [42 São Paulo](https://www.42sp.org.br) in Brazil.
 
-### 📚 Latest Blog Posts
+<h3> 📚 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [An approach to solving the dining philosophers problem](https://riceset.com/articles/philosophers/)
@@ -13,11 +13,11 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 - [Understanding signals in Linux](https://riceset.com/articles/signals/)
 <!-- BLOG-POST-LIST:END -->
 
-### 🎙 YouTube
+<h3> 🎙 YouTube </h3>
 - [Vim tutorial at 42 São Paulo's podcast](https://www.youtube.com/watch?v=10BSs7UGBtY)
 - [Introduction to linked lists in C](https://www.youtube.com/watch?v=5AsUZgGCG3c)
 
-## 🌱 Languages
+<h2> 🌱 Languages </h2>
 
 - 🇯🇵 Japanese (JLPT N1)
 - 🇺🇸 American English (CEFR C1~C2)
@@ -25,12 +25,12 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 - 🇧🇷 Brazilian Portuguese (Native)
 - 🇪🇸 Spanish (Intermediate)
 
-## 🎉 GitHub Status
+<h2> 🎉 GitHub Status </h2>
 
 [![status](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/overview.svg)](#)
 [![languages](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/languages.svg)](#)
 
-## 🚀 École 42 Badges
+<h2> 🚀 École 42 Badges </h2>
 
 <div align="center">
 
