@@ -8,9 +8,9 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 <h3> 📚 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with SwiftUI &lpar;Stanford CS193p&rpar;](https://riceset.com/articles/getting-started-with-swiftui-stanford-cs193p/)
 - [An approach to solving the dining philosophers problem](https://riceset.com/articles/philosophers/)
 - [Understanding the stack data structure](https://riceset.com/articles/understanding-the-stack-data-structure/)
-- [Understanding signals in Linux](https://riceset.com/articles/signals/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🎙 YouTube </h3>
