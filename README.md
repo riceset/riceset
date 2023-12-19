@@ -7,9 +7,9 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 <h3> 📚 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [My Swift Guide: Personal Reference for Swift Programming Concepts](https://riceset.com/articles/my-swift-guide-personal-reference-for-swift-programming-concepts/)
+- [Understanding MVVM in SwiftUI &lpar;Stanford CS193p&rpar;](https://riceset.com/articles/understanding%5C-mvvm%5C-in%5C-swiftui%5C-%5Cstanford%5C-cs193p%5C/)
 - [Getting started with SwiftUI &lpar;Stanford CS193p&rpar;](https://riceset.com/articles/getting-started-with-swiftui-stanford-cs193p/)
-- [An approach to solving the dining philosophers problem](https://riceset.com/articles/philosophers/)
-- [Understanding the stack data structure](https://riceset.com/articles/understanding-the-stack-data-structure/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🎙 YouTube </h3>
