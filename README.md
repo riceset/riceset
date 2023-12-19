@@ -27,8 +27,8 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 
 <h2> 🎉 GitHub Status </h2>
 
-[![status](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/overview.svg)](#)
-[![languages](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/languages.svg)](#)
+<img src="https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/overview.svg" style="max-width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/languages.svg" style="max-width: 100%; height: auto;">
 
 <h2> 🚀 École 42 Badges </h2>
 
