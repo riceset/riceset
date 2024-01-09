@@ -19,11 +19,11 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 
 <h2> 🌱 Languages </h2>
 
-- 🇯🇵 Japanese (JLPT N1)
-- 🇺🇸 American English (CEFR C1~C2)
-- 🇨🇳 Mandarin Chinese (HSK3~HSK4)
-- 🇧🇷 Brazilian Portuguese (Native)
-- 🇪🇸 Spanish (Intermediate)
+- 🇯🇵 Japanese
+- 🇺🇸 English
+- 🇨🇳 Mandarin
+- 🇧🇷 Portuguese
+- 🇪🇸 Spanish
 
 <h2> 🎉 GitHub Status </h2>
 
