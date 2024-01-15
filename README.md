@@ -7,9 +7,9 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 <h3> 📚 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding MVVM in SwiftUI &lpar;Stanford CS193p&rpar;](https://riceset.com/articles/understanding-mvvm-in-swiftui-stanford-cs193p/)
-- [Mastering Mandarin with Anki](https://riceset.com/articles/mastering-mandarin-chinese-with-anki/)
-- [Getting started with SwiftUI &lpar;Stanford CS193p&rpar;](https://riceset.com/articles/getting-started-with-swiftui-stanford-cs193p/)
+- [Understanding MVVM in SwiftUI &lpar;Stanford CS193p&rpar;](https://riceset.com/articles/swift/mvvm/)
+- [Mastering Mandarin with Anki](https://riceset.com/articles/languages/mandarin/)
+- [Getting started with SwiftUI &lpar;Stanford CS193p&rpar;](https://riceset.com/articles/swift/getting-started-with-swiftui/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🎙 YouTube </h3>
