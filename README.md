@@ -8,7 +8,7 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 
 <!-- BLOG-POST-LIST:START -->
 - [42 Exam Rank 2](https://riceset.com/Algorithms/42-Exam-Rank-2)
-- [My Karabiner Setup](https://riceset.com/Tools/My-Karabiner-Setup)
+- [Understanding Bitwise Operations](https://riceset.com/Computer-Science/Understanding-Bitwise-Operations)
 - [Understanding MVVM in SwiftUI &lpar;Stanford CS193p&rpar;](https://riceset.com/Design-Patterns/MVVM-in-SwiftUI)
 <!-- BLOG-POST-LIST:END -->
 
