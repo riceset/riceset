@@ -7,9 +7,9 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 <h3> 📚 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dining Philosophers Problem](https://riceset.com/Algorithms/The-Dining-Philosophers-Problem)
 - [The XOR Swap](https://riceset.com/Algorithms/The-XOR-Swap)
 - [Understanding Bitwise Operations](https://riceset.com/Computer-Science/Understanding-Bitwise-Operations)
-- [Understanding MVVM in SwiftUI &lpar;Stanford CS193p&rpar;](https://riceset.com/Design-Patterns/MVVM-in-SwiftUI)
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🎙 YouTube </h3>
