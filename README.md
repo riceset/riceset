@@ -7,9 +7,9 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 <h3> 📚 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Replicating the Print Function in C](https://riceset.com/Algorithms/Replicating-the-Print-Function-in-C)
 - [The Dining Philosophers Problem](https://riceset.com/Algorithms/The-Dining-Philosophers-Problem)
 - [The XOR Swap](https://riceset.com/Algorithms/The-XOR-Swap)
-- [Understanding Bitwise Operations](https://riceset.com/Computer-Science/Understanding-Bitwise-Operations)
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🎙 YouTube </h3>
