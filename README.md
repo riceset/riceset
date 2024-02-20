@@ -19,11 +19,23 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 
 <h2> 🌱 Languages </h2>
 
+<h4> Can speak: </h4>
+
 - 🇯🇵 Japanese
 - 🇺🇸 English
-- 🇨🇳 Mandarin
 - 🇧🇷 Portuguese
 - 🇪🇸 Spanish
+
+<h4> Learning: </h4>
+
+- 🇨🇳 Mandarin
+
+<h4> Interested in: </h4>
+
+- 🇭🇰 Cantonese
+- 🇫🇷 French
+- 🇩🇪 German
+- 🇷🇺 Russian
 
 <h2> 🎉 GitHub Status </h2>
 
