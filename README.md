@@ -21,20 +21,15 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 
 <h4> Can speak: </h4>
 
-- 🇺🇸 English
 - 🇯🇵 Japanese
+- 🇺🇸 English
+- 🇪🇸 Spanish
 - 🇧🇷 Portuguese
 
 <h4> Learning: </h4>
 
 - 🇨🇳 Mandarin
-- 🇪🇸 Spanish
-
-<h4> Interested in: </h4>
-
 - 🇭🇰 Cantonese
-- 🇩🇪 German
-- 🇷🇺 Russian
 - 🇫🇷 French
 
 <h2> 🎉 GitHub Status </h2>
@@ -42,6 +37,7 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 ![overview](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/overview.svg)
 ![languages](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/languages.svg)
 
+<!--
 <h2> 🚀 École 42 Projects </h2>
 
 <div align="center">
@@ -58,3 +54,5 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 </div>
 
 <a href="#"><img align='right' src='https://github-production-user-asset-6210df.s3.amazonaws.com/48802655/256495848-7dc374e6-4ba4-442f-887f-de6898a052f8.gif' width='60'></a>
+
+-->
