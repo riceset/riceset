@@ -21,21 +21,21 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 
 <h4> Can speak: </h4>
 
-- 🇯🇵 Japanese
 - 🇺🇸 English
+- 🇯🇵 Japanese
 - 🇧🇷 Portuguese
-- 🇪🇸 Spanish
 
 <h4> Learning: </h4>
 
 - 🇨🇳 Mandarin
+- 🇪🇸 Spanish
 
 <h4> Interested in: </h4>
 
 - 🇭🇰 Cantonese
-- 🇫🇷 French
 - 🇩🇪 German
 - 🇷🇺 Russian
+- 🇫🇷 French
 
 <h2> 🎉 GitHub Status </h2>
 
