@@ -35,11 +35,11 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 ![overview](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/overview.svg)
 ![languages](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/languages.svg)
 
-<h2> 🚀 École 42 Projects </h2>
+<h2> 🚀 École 42 Curriculum </h2>
 
 <div align="center">
   
-| name | purpose
+| project | purpose
 | ---	| ---	|
 |[libft](https://github.com/riceset/libft) | Learn how the standard functions of C programming work, by coding them from scratch and creating our very own library.
 |[get_next_line](https://github.com/riceset/get_next_line) | Learn how file descriptors and static variables work.
