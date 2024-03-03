@@ -47,7 +47,7 @@
 | [fract-ol](https://github.com/riceset/fract-ol) | 使用複數和 École 42 的圖形庫 MiniLibX 創建圖形美觀的分形。|
 | [minitalk](https://github.com/riceset/minitalk) | 使用 UNIX 信號編碼一個小型數據交換程序。|
 | [push_swap](https://github.com/riceset/push_swap) | 一個專注於使用最少的操作高效排序隨機數字的項目。它介紹了堆棧數據結構和循環雙向鏈表等概念。|
-| [minishell](https://github.com/Guiribei/my_shell) | 創建我們自己的外壳。|
+| [minishell](https://github.com/Guiribei/my_shell) | 創建我們自己的外壳（shell）。|
 | [philosophers](https://github.com/riceset/philosophers) | 通過解決 Edsger Dijkstra 著名的哲學家就餐問題，學習使用線程和互斥體的並發編程基礎。|
 | [cub3d](https://github.com/riceset/cub3d) | 使用 École 42 的圖形庫 MiniLibX 創建一款靈感來自 Wolfenstein 3D 的 3D 遊戲。|
 | [c++ modules](https://github.com/riceset/cpp-modules) | 學習面向對象編程的基礎。|
