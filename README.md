@@ -35,7 +35,6 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 ![overview](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/overview.svg)
 ![languages](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/languages.svg)
 
-<!--
 <h2> 🚀 École 42 Projects </h2>
 
 <div align="center">
@@ -48,9 +47,11 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 [![push_swap](https://github.com/riceset/riceset/blob/main/42_badges/push_swape.png)](https://github.com/riceset/push_swap)
 [![minishell](https://github.com/riceset/riceset/blob/main/42_badges/minishelle.png)](https://github.com/Guiribei/my_shell)
 [![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/philosopherse.png)](https://github.com/riceset/philosophers)
+[![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/cub3de.png)](https://github.com/riceset/cub3d)
+[![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/cppe.png)](https://github.com/riceset/cpp-modules)
 
 </div>
 
+<!--
 <a href="#"><img align='right' src='https://github-production-user-asset-6210df.s3.amazonaws.com/48802655/256495848-7dc374e6-4ba4-442f-887f-de6898a052f8.gif' width='60'></a>
-
 -->
