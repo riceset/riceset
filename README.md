@@ -1,3 +1,4 @@
+<p align="right"><a href="https://github.com/riceset/riceset/blob/main/zh.md">中文版</a></p>
 <h1>
   👋 Welcome!
 </h1>
