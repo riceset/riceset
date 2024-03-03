@@ -2,7 +2,7 @@
   👋 歡迎！
 </h1>
 
-我是一名軟件工程學生，在🇫🇷 [École 42](https://42.fr/)的🗼 [東京校區](https://42tokyo.jp/)學習。我同時也是🇯🇵 [東京外國語大學](http://www.tufs.ac.jp) (TUFS)的大學生。在2021年，我完成了🌳 哈佛大學的計算機科學導論課程，[CS50](https://github.com/riceset/Harvard-CS50)。
+我是一名軟件工程學生，在🇫🇷 [École 42](https://42.fr/)的🗼 [東京校區](https://42tokyo.jp/)學習。我同時也是🇯🇵 [東京外國語大學](http://www.tufs.ac.jp)（TUFS）的大學生。在2021年，我完成了🌳 哈佛大學的計算機科學導論課程，[CS50](https://github.com/riceset/Harvard-CS50)。
 
 <h3> 📚 最新博客文章 </h3>
 
