@@ -2,7 +2,7 @@
   👋 歡迎！
 </h1>
 
-我是一名軟件工程師，在🇫🇷 [École 42](https://42.fr/)的🗼 [東京校區](https://42tokyo.jp/)學習。我同時也是🇯🇵 [東京外國語大學](http://www.tufs.ac.jp)（TUFS）的大學生。在2021年裡，我完成了🌳 哈佛大學的計算機科學導論課程，[CS50](https://github.com/riceset/Harvard-CS50)。
+我是一名軟件工程師，在[École 42](https://42.fr/)的[東京校區](https://42tokyo.jp/)學習。我同時也是[東京外國語大學](http://www.tufs.ac.jp)（TUFS）的大學生。在2021年裡，我完成了哈佛大學的計算機科學導論課程，[CS50](https://github.com/riceset/Harvard-CS50)。
 
 <h3> 📚 最新博客文章 </h3>
 
@@ -39,16 +39,18 @@
 
 <div align="center">
 
-[![Libft](https://github.com/riceset/riceset/blob/main/42_badges/libfte.png)](https://github.com/riceset/libft)
-[![GNL](https://github.com/riceset/riceset/blob/main/42_badges/get_next_linee.png)](https://github.com/riceset/get_next_line)
-[![ft_printf](https://github.com/riceset/riceset/blob/main/42_badges/ft_printfe.png)](https://github.com/riceset/ft_printf)
-[![fract-ol](https://github.com/riceset/riceset/blob/main/42_badges/fract-ole.png)](https://github.com/riceset/fract-ol)
-[![minitalk](https://github.com/riceset/riceset/blob/main/42_badges/minitalke.png)](https://github.com/riceset/minitalk)
-[![push_swap](https://github.com/riceset/riceset/blob/main/42_badges/push_swape.png)](https://github.com/riceset/push_swap)
-[![minishell](https://github.com/riceset/riceset/blob/main/42_badges/minishelle.png)](https://github.com/Guiribei/my_shell)
-[![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/philosopherse.png)](https://github.com/riceset/philosophers)
-[![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/cub3de.png)](https://github.com/riceset/cub3d)
-[![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/cppe.png)](https://github.com/riceset/cpp-modules)
+| 名稱 | 目的 |
+| --- | --- |
+| [libft](https://github.com/riceset/libft) | 通過從頭編碼 C 程序的標準函數來學習其工作原理，並創建我們自己的庫。|
+| [get_next_line](https://github.com/riceset/get_next_line) | 學習文件描述符和靜態變量的工作方式。|
+| [ft_printf](https://github.com/riceset/ft_printf) | 復制原始 C `printf()` 函數。|
+| [fract-ol](https://github.com/riceset/fract-ol) | 使用複數和 École 42 的圖形庫 MiniLibX 創建圖形美觀的分形。|
+| [minitalk](https://github.com/riceset/minitalk) | 使用 UNIX 信號編碼一個小型數據交換程序。|
+| [push_swap](https://github.com/riceset/push_swap) | 一個專注於使用最少的操作高效排序隨機數字的項目。它介紹了堆棧數據結構和循環雙向鏈表等概念。|
+| [minishell](https://github.com/Guiribei/my_shell) | 創建我們自己的外壳。|
+| [philosophers](https://github.com/riceset/philosophers) | 通過解決 Edsger Dijkstra 著名的哲學家就餐問題，學習使用線程和互斥體的並發編程基礎。|
+| [cub3d](https://github.com/riceset/cub3d) | 使用 École 42 的圖形庫 MiniLibX 創建一款靈感來自 Wolfenstein 3D 的 3D 遊戲。|
+| [c++ modules](https://github.com/riceset/cpp-modules) | 學習面向對象編程的基礎。|
 
 </div>
 
