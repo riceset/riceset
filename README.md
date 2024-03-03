@@ -28,9 +28,7 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 
 <h4> Learning: </h4>
 
-- 🇨🇳 Mandarin
-- 🇭🇰 Cantonese
-- 🇫🇷 French
+- 🇹🇼 Mandarin
 
 <h2> 🎉 GitHub Status </h2>
 
