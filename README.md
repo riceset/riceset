@@ -38,17 +38,19 @@ I am a software engineering student at 🇫🇷 [École 42](https://42.fr/), cur
 <h2> 🚀 École 42 Projects </h2>
 
 <div align="center">
-
-[![Libft](https://github.com/riceset/riceset/blob/main/42_badges/libfte.png)](https://github.com/riceset/libft)
-[![GNL](https://github.com/riceset/riceset/blob/main/42_badges/get_next_linee.png)](https://github.com/riceset/get_next_line)
-[![ft_printf](https://github.com/riceset/riceset/blob/main/42_badges/ft_printfe.png)](https://github.com/riceset/ft_printf)
-[![fract-ol](https://github.com/riceset/riceset/blob/main/42_badges/fract-ole.png)](https://github.com/riceset/fract-ol)
-[![minitalk](https://github.com/riceset/riceset/blob/main/42_badges/minitalke.png)](https://github.com/riceset/minitalk)
-[![push_swap](https://github.com/riceset/riceset/blob/main/42_badges/push_swape.png)](https://github.com/riceset/push_swap)
-[![minishell](https://github.com/riceset/riceset/blob/main/42_badges/minishelle.png)](https://github.com/Guiribei/my_shell)
-[![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/philosopherse.png)](https://github.com/riceset/philosophers)
-[![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/cub3de.png)](https://github.com/riceset/cub3d)
-[![philosophers](https://github.com/riceset/riceset/blob/main/42_badges/cppe.png)](https://github.com/riceset/cpp-modules)
+  
+| name | purpose
+| ---	| ---	|
+|[libft](https://github.com/riceset/libft) | Learn how the standard functions of C programming work, by coding them from scratch and creating our very own library.
+|[get_next_line](https://github.com/riceset/get_next_line) | Learn how file descriptors and static variables work.
+|[ft_printf](https://github.com/riceset/ft_printf) | Replicate the original C `printf()` function.
+|[fract-ol](https://github.com/riceset/fract-ol) | Create graphically beautiful fractals using complex numbers and École 42's graphical library MiniLibX.
+|[minitalk](https://github.com/riceset/minitalk) | Code a small data exchange program using UNIX signals.
+|[push_swap](https://github.com/riceset/push_swap) | A project focused on efficiently sorting random numbers with minimal actions. It introduces concepts such as stack data structures and circular doubly linked lists.
+|[minishell](https://github.com/Guiribei/my_shell) | Create our own shell.
+|[philosophers](https://github.com/riceset/philosophers) | Learn the basics of concurrent programming using threads and mutexes by solving Edsger Dijkstra's famous dining philosophers problem.
+|[cub3d](https://github.com/riceset/cub3d) | Create a 3D game inspired by Wolfenstein 3D using École 42's graphical library, MiniLibX.
+|[c++ modules](https://github.com/riceset/cpp-modules) | Learn the basics of object-oriented programming.
 
 </div>
 
