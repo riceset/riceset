@@ -35,11 +35,11 @@
 ![overview](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/overview.svg)
 ![languages](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/languages.svg)
 
-<h2> 🚀 École 42 項目 </h2>
+<h2> 🚀 École 42 課程大綱 </h2>
 
 <div align="center">
 
-| 名稱 | 目的 |
+| 項目 | 目的 |
 | --- | --- |
 | [libft](https://github.com/riceset/libft) | 通過從頭編碼 C 程序的標準函數來學習其工作原理，並創建我們自己的庫。|
 | [get_next_line](https://github.com/riceset/get_next_line) | 學習文件描述符和靜態變量的工作方式。|
