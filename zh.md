@@ -14,8 +14,8 @@
 
 <h3> 🎙 YouTube </h3>
 
-- [Vim tutorial at 42 São Paulo's podcast](https://www.youtube.com/watch?v=10BSs7UGBtY)
-- [Introduction to linked lists in C](https://www.youtube.com/watch?v=5AsUZgGCG3c)
+- [在42聖保羅播客中的Vim教程](https://www.youtube.com/watch?v=10BSs7UGBtY)
+- [C語言中鏈表的介紹](https://www.youtube.com/watch?v=5AsUZgGCG3c)
 
 <h2> 🌱 語言 </h2>
 
