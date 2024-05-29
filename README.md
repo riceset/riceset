@@ -14,7 +14,8 @@ Software engineer at 🇫🇷 [École 42](https://42.fr/), based in the [Tokyo c
 
 <h3> 🎙 YouTube </h3>
 
-- [Vim tutorial at 42 São Paulo's podcast](https://www.youtube.com/watch?v=10BSs7UGBtY)
+- [42 Tokyo × 42 Seoul Collaboration: The 42 Live Radio Show](https://youtu.be/5y_IXv28g5I)
+- [Vim tutorial at 42 São Paulo's podcast Fora da Norma](https://www.youtube.com/watch?v=10BSs7UGBtY)
 - [Introduction to linked lists in C](https://www.youtube.com/watch?v=5AsUZgGCG3c)
 
 <h2> 🌱 Languages </h2>
