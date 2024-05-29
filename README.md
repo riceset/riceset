@@ -39,7 +39,7 @@ Software engineer at 🇫🇷 [École 42](https://42.fr/), based in the [Tokyo c
 <h2> 🚀 École 42 Curriculum </h2>
 
 <div align="center">
-  
+
 | project | purpose
 | ---	| ---	|
 |[libft](https://github.com/riceset/libft) | Learn how the standard functions of C programming work, by coding them from scratch and creating our very own library.
@@ -51,6 +51,7 @@ Software engineer at 🇫🇷 [École 42](https://42.fr/), based in the [Tokyo c
 |[minishell](https://github.com/Guiribei/my_shell) | Create our own shell.
 |[philosophers](https://github.com/riceset/philosophers) | Learn the basics of concurrent programming using threads and mutexes by solving Edsger Dijkstra's famous dining philosophers problem.
 |[cub3d](https://github.com/riceset/cub3d) | Create a 3D game inspired by Wolfenstein 3D using École 42's graphical library, MiniLibX.
+|[NetPractice](https://github.com/riceset/netpractice) | A general practical exercise to discover networking. Here we configure small-scale networks based on the principles of TCP/IP.
 |[c++ modules](https://github.com/riceset/cpp-modules) | Learn the basics of object-oriented programming.
 
 </div>
