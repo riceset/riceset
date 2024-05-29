@@ -21,14 +21,15 @@ Software engineer at 🇫🇷 [École 42](https://42.fr/), based in the [Tokyo c
 
 <h4> Can speak: </h4>
 
-- 🇧🇷 Portuguese
-- 🇯🇵 Japanese
+- 🇧🇷 Português
+- 🇯🇵 日本語
 - 🇺🇸 English
-- 🇪🇸 Spanish
+- 🇪🇸 Español
 
 <h4> Learning: </h4>
 
-- 🇨🇳 Mandarin
+- 🇫🇷 Français
+- 🇨🇳 中文
 
 <h2> 🎉 GitHub Status </h2>
 
