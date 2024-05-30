@@ -30,7 +30,6 @@ Software engineer at 🇫🇷 [École 42](https://42.fr/), based in the [Tokyo c
 <h4> Learning: </h4>
 
 - 🇨🇳 Mandarin
-- 🇫🇷 French
 
 <h2> 🎉 GitHub Status </h2>
 
