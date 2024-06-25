@@ -22,17 +22,16 @@ Software engineer at 🇫🇷 [École 42](https://42.fr/), based in the [Tokyo c
 
 <h4> Intermediate/Advanced: </h4>
 
-- 🇧🇷 Portuguese (C2)
+- 🇵🇹 Portuguese (C2)
 - 🇯🇵 Japanese (C2)
-- 🇺🇸 English (C2)
+- 🇬🇧 English (C2)
 - 🇪🇸 Spanish (B2)
-- 🇨🇳 Mandarin (B1)
+- 🇹🇼 Mandarin (B1)
 
 <h4> Beginner: </h4>
 
 - 🇫🇷 French (A1)
 - 🇰🇷 Korean (A1)
-- 🇷🇺 Russian (A1)
 
 <h2> 🎉 GitHub Status </h2>
 
