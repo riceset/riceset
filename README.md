@@ -1,5 +1,3 @@
-<a href="#"><img align='right' src='https://github-production-user-asset-6210df.s3.amazonaws.com/48802655/256495848-7dc374e6-4ba4-442f-887f-de6898a052f8.gif' width='60'></a>
-
 <h1>
   👋 Welcome!
 </h1>
