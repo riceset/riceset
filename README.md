@@ -69,7 +69,7 @@ Software engineering student at 🇫🇷 École 42. Currently majoring in Japan 
 <h2> 💭 Currently, I am </h2>
 
 - Taking Stanford CS193p: Developing Applications for iOS
-- Preparing for the Test of Chinese as a Foreign Language (華語文能力測驗)
+- Preparing for the Test of Chinese as a Foreign Language
 
 <p align="right">
   <a href="中文.md" style="font-weight: bold;">中文版本</a>
