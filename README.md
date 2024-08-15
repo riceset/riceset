@@ -7,7 +7,7 @@ Software engineering student at 🇫🇷 École 42. Currently majoring in Japan 
 <h3> 📚 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Object-Oriented Programming in C++](https://riceset.com/C++/Object-Oriented-Programming-in-C++)
+- [Understanding the Orthodox Canonical Class Form](https://riceset.com/C++/Understanding-the-Orthodox-Canonical-Class-Form)
 - [Writing Makefile for C++ Projects](https://riceset.com/C++/Writing-Makefile-for-C++-Projects)
 - [The Dining Philosophers Problem](https://riceset.com/Algorithms/The-Dining-Philosophers-Problem)
 <!-- BLOG-POST-LIST:END -->
