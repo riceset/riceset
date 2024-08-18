@@ -48,21 +48,21 @@ Software engineering student at 🇫🇷 École 42. Currently majoring in Japan 
 
 <div align="center">
 
-| project | purpose
-| ---	| ---	|
-|[libft](https://github.com/riceset/libft) | Learn how the standard functions of C programming work, by coding them from scratch and creating our very own library.
-|[get_next_line](https://github.com/riceset/get_next_line) | Learn how file descriptors and static variables work.
-|[ft_printf](https://github.com/riceset/ft_printf) | Replicate the original C `printf()` function.
-|[fract-ol](https://github.com/riceset/fract-ol) | Create graphically beautiful fractals using complex numbers and École 42's graphical library MiniLibX.
-|[minitalk](https://github.com/riceset/minitalk) | Code a small data exchange program using UNIX signals.
-|[push_swap](https://github.com/riceset/push_swap) | A project focused on efficiently sorting random numbers with minimal actions. It introduces concepts such as stack data structures and circular doubly linked lists.
-|[minishell](https://github.com/Guiribei/my_shell) | Create our own shell.
-|[philosophers](https://github.com/riceset/philosophers) | Learn the basics of concurrent programming using threads and mutexes by solving Edsger Dijkstra's famous dining philosophers problem.
-|[cub3d](https://github.com/riceset/cub3d) | Create a 3D game inspired by Wolfenstein 3D using École 42's graphical library, MiniLibX.
-|[NetPractice](https://github.com/riceset/netpractice) | A general practical exercise to discover networking. Here we configure small-scale networks based on the principles of TCP/IP.
-|[c++ modules](https://github.com/riceset/cpp-modules) | Learn the basics of object-oriented programming.
-|[inception](https://github.com/riceset/inception) | A practical project to expand your system administration knowledge. Here we use Docker to virtualize several Docker images, creating them in your new personal virtual machine.
-|[webserv](https://github.com/riceset/webserv) | Writing our own HTTP server.
+| project | purpose | status
+| ---	| ---	| --- |
+|[libft](https://github.com/riceset/libft) | Learn how the standard functions of C programming work, by coding them from scratch and creating our very own library. | ✅
+|[get_next_line](https://github.com/riceset/get_next_line) | Learn how file descriptors and static variables work. | ✅
+|[ft_printf](https://github.com/riceset/ft_printf) | Replicate the original C `printf()` function. | ✅
+|[fract-ol](https://github.com/riceset/fract-ol) | Create graphically beautiful fractals using complex numbers and École 42's graphical library MiniLibX. | ✅
+|[minitalk](https://github.com/riceset/minitalk) | Code a small data exchange program using UNIX signals. | ✅
+|[push_swap](https://github.com/riceset/push_swap) | A project focused on efficiently sorting random numbers with minimal actions. It introduces concepts such as stack data structures and circular doubly linked lists. | ✅
+|[minishell](https://github.com/Guiribei/my_shell) | Create our own shell. | ✅
+|[philosophers](https://github.com/riceset/philosophers) | Learn the basics of concurrent programming using threads and mutexes by solving Edsger Dijkstra's famous dining philosophers problem. | ✅
+|[cub3d](https://github.com/riceset/cub3d) | Create a 3D game inspired by Wolfenstein 3D using École 42's graphical library, MiniLibX. | ✅
+|[NetPractice](https://github.com/riceset/netpractice) | A general practical exercise to discover networking. Here we configure small-scale networks based on the principles of TCP/IP. | ✅
+|[c++ modules](https://github.com/riceset/cpp-modules) | Learn the basics of object-oriented programming. | WIP
+|[inception](https://github.com/riceset/inception) | A practical project to expand your system administration knowledge. Here we use Docker to virtualize several Docker images, creating them in your new personal virtual machine. | WIP
+|[webserv](https://github.com/riceset/webserv) | Writing our own HTTP server. | WIP
 
 </div>
 
