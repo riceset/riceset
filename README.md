@@ -61,8 +61,10 @@ Software engineering student at 🇫🇷 École 42. Currently majoring in Japan 
 | <div align="center">[cub3d](https://github.com/riceset/cub3d)</div> | Create a 3D game inspired by Wolfenstein 3D using École 42's graphical library, MiniLibX. | <div align="center">✅</div> |
 | <div align="center">[NetPractice](https://github.com/riceset/netpractice)</div> | A general practical exercise to discover networking. Here we configure small-scale networks based on the principles of TCP/IP. | <div align="center">✅</div> |
 | <div align="center">[c++ modules](https://github.com/riceset/cpp-modules)</div> | Learn the basics of object-oriented programming. | <div align="center">WIP</div> |
-| <div align="center">[inception](https://github.com/riceset/inception)</div> | A practical project to expand your system administration knowledge. Here we use Docker to virtualize several Docker images, creating them in your new personal virtual machine. | <div align="center">WIP</div> |
-| <div align="center">[webserv](https://github.com/riceset/webserv)</div> | Writing our own HTTP server. | <div align="center">WIP</div> |
+| <div align="center">[inception](https://github.com/riceset/inception)</div> | A practical project to expand your system administration knowledge. Here we use Docker to virtualize several Docker images, creating them in your new personal virtual machine. | <div align="center">N/A</div> |
+| <div align="center">[webserv](https://github.com/riceset/webserv)</div> | Writing our own HTTP server. | <div align="center">N/A</div> |
+| <div align="center">[transcendance](https://github.com/riceset/transcendance)</div> | The final project: A full-stack website that lets you play the classic game Pong. | <div align="center">N/A</div> |
+
 
 </div>
 
