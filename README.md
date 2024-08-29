@@ -37,7 +37,6 @@ Software engineering student at 🇫🇷 École 42. Currently majoring in Japan 
 <h4> Beginner: </h4>
 
 - 🇫🇷 French (A1)
-- 🇰🇷 Korean (A1)
 
 <h2> 🎉 GitHub Status </h2>
 
