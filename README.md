@@ -26,13 +26,13 @@ Software engineering student at 🇫🇷 École 42. Currently majoring in Japan 
 - 🇯🇵 Japanese (C2)
 - 🇵🇹 Portuguese (C2)
 
+<h4> Advanced: </h4>
+
+- 🇪🇸 Spanish (C1)
+
 <h4> Intermediate: </h4>
 
-- 🇪🇸 Spanish (B2)
-
-<h4> Elementary: </h4>
-
-- 🇨🇳 Mandarin (A2)
+- 🇨🇳 Mandarin (B1)
 
 <h4> Beginner: </h4>
 
