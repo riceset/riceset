@@ -37,6 +37,7 @@ Software engineering student at 🇫🇷 École 42. Currently majoring in Japan 
 <h4> Beginner: </h4>
 
 - 🇫🇷 French (A1)
+- 🇰🇷 Korean (A1)
 
 <h2> 🎉 GitHub Status </h2>
 
@@ -64,14 +65,4 @@ Software engineering student at 🇫🇷 École 42. Currently majoring in Japan 
 | <div align="center">[webserv](https://github.com/riceset/webserv)</div> | Writing our own HTTP server. | <div align="center">N/A</div> |
 | <div align="center">[transcendance](https://github.com/riceset/transcendance)</div> | The final project: A full-stack website that lets you play the classic game Pong. | <div align="center">N/A</div> |
 
-
 </div>
-
-<h2> 💭 Currently, I am </h2>
-
-- Taking Stanford CS193p: Developing Applications for iOS
-- Preparing for the Test of Chinese as a Foreign Language
-
-<p align="right">
-  <a href="中文.md" style="font-weight: bold;">中文版本</a>
-</p>
