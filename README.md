@@ -2,7 +2,7 @@
   👋 Welcome!
 </h1>
 
-Software engineering student at 🇫🇷 École 42. Currently majoring in Japan Studies at Tokyo University of Foreign Studies as a Japanese Government (MEXT) scholarship undergraduate student. Passionate about iOS app development and language learning.
+Software engineering student at École 42. Currently majoring in Japan Studies at Tokyo University of Foreign Studies. Passionate about iOS app development and language learning.
 
 <h3> 📚 Latest Blog Posts </h3>
 
@@ -17,22 +17,6 @@ Software engineering student at 🇫🇷 École 42. Currently majoring in Japan 
 - [42 Tokyo × 42 Seoul Collaboration: The 42 Live Radio Show](https://youtu.be/5y_IXv28g5I)
 - [Vim tutorial at 42 São Paulo's podcast Fora da Norma](https://www.youtube.com/watch?v=10BSs7UGBtY)
 - [Introduction to linked lists in C](https://www.youtube.com/watch?v=5AsUZgGCG3c)
-
-<h2> 🌱 Languages </h2>
-
-<h4> Proficient: </h4>
-
-- 🇬🇧 English (C2)
-- 🇯🇵 Japanese (C2)
-- 🇵🇹 Portuguese (C2)
-
-<h4> Advanced: </h4>
-
-- 🇪🇸 Spanish (B2)
-
-<h4> Intermediate: </h4>
-
-- 🇨🇳 Mandarin (B1)
 
 <h2> 🎉 GitHub Status </h2>
 
