@@ -7,9 +7,9 @@ Software engineering student at École 42. Currently majoring in Japan Studies a
 <h3> 📚 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Insertion Sort](https://riceset.com/Algorithms/Understanding-Insertion-Sort)
 - [Understanding Merge Sort](https://riceset.com/Algorithms/Understanding-Merge-Sort)
 - [Understanding Casts in C++](https://riceset.com/C++/Understanding-Casts-in-C++)
-- [Understanding the Orthodox Canonical Class Form](https://riceset.com/C++/Understanding-the-Orthodox-Canonical-Class-Form)
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🎙 YouTube </h3>
