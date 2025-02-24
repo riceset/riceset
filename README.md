@@ -8,7 +8,7 @@ Software engineering student at École 42. Currently majoring in Japan Studies a
 
 <!-- BLOG-POST-LIST:START -->
 - [NeoMnemo](https://riceset.com/Swift/NeoMnemo)
-- [index](https://riceset.com/)
+- [riceset](https://riceset.com/)
 - [Understanding Binary Insertion Sort](https://riceset.com/Algorithms/Understanding-Binary-Insertion-Sort)
 <!-- BLOG-POST-LIST:END -->
 
