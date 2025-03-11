@@ -29,7 +29,7 @@ Software engineering student at École 42. Currently majoring in Japan Studies a
 - 🇯🇵 Japanese (C2)
 - 🇬🇧 English (C2)
 - 🇪🇸 Spanish (C1)
-- 🇨🇳 Chinese (B1)
+- 🇨🇳 Chinese (A2)
 - 🇫🇷 French (A1)
 
 <h2> 🚀 École 42 Curriculum </h2>
