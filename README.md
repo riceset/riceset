@@ -51,6 +51,6 @@ Software engineering student at École 42. Currently majoring in Japan Studies a
 | <div align="center">[inception](https://github.com/riceset/inception)</div> | A practical project to expand your system administration knowledge. Here we use Docker to virtualize several Docker images, creating them in your new personal virtual machine. | <div align="center">✅</div> |
 | <div align="center">[c++ modules](https://github.com/riceset/cpp-modules)</div> | Learn the basics of object-oriented programming. | <div align="center">✅</div> |
 | <div align="center">[webserv](https://github.com/riceset/webserv)</div> | Writing our own HTTP server. | <div align="center">✅</div> |
-| <div align="center">[transcendance](https://github.com/ndmxjp/ft_transcendance)</div> | The final project: A full-stack website that lets you play the classic game Pong. | <div align="center">N/A</div> |
+| <div align="center">[transcendence](https://github.com/ndmxjp/ft_transcendence)</div> | The final project: A full-stack website that lets you play the classic game Pong. | <div align="center">N/A</div> |
 
 </div>
