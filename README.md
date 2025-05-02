@@ -37,7 +37,8 @@ Software engineering student at École 42. Currently majoring in Japan Studies a
 
 <h4> Limited Working Proficiency </h4>
 
-- 🇹🇼 Mandarin
+- 🇹🇼 Taiwanese Mandarin
+- 🇨🇳 Chinese Mandarin
 
 <h4> Elementary Proficiency </h4>
 
