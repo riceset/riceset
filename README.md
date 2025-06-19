@@ -40,10 +40,6 @@ Software engineering student at École 42. Currently majoring in Japan Studies a
 - 🇹🇼 Taiwanese Mandarin
 - 🇨🇳 Chinese Mandarin
 
-<h4> 🧩 Elementary Proficiency </h4>
-
-- 🇫🇷 French
-
 <h2> 🚀 École 42 Curriculum </h2>
 
 <div align="center">
