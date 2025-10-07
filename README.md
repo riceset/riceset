@@ -31,11 +31,11 @@ Japanese-Brazilian software engineering student at 🇫🇷 École 42. Currently
 - 🇯🇵 Japanese
 - 🇺🇸 English
 
-<h4> 💼 Professional Working Proficiency </h4>
+<h4> 💼 Limited Working Proficiency </h4>
 
 - 🇪🇸 Spanish
 
-<h4> 📖 Limited Working Proficiency </h4>
+<h4> 📖 Elementary Proficiency </h4>
 
 - 🇹🇼 Taiwanese Mandarin
 - 🇨🇳 Chinese Mandarin
