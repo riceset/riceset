@@ -2,7 +2,7 @@
   👋 Welcome!
 </h1>
 
-Japanese-Brazilian software engineering student at 🇫🇷 École 42. Currently majoring in Japan Studies at Tokyo University of Foreign Studies. Passionate about iOS app development and language learning.
+École 42 (Paris/Tokyo) graduate, software engineer, and student at Tokyo University of Foreign Studies.
 
 <h3> 📚 Latest Blog Posts </h3>
 
