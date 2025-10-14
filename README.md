@@ -2,7 +2,7 @@
   👋 Welcome!
 </h1>
 
-Japanese-Brazilian software engineer, École 42 (Paris/Tokyo) graduate, and student at Tokyo University of Foreign Studies.
+Japanese–Brazilian software engineer, École 42 (Paris/Tokyo) graduate, currently at Tokyo University of Foreign Studies.
 
 <h3> 📚 Latest Blog Posts </h3>
 
