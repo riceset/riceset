@@ -2,7 +2,7 @@
   👋 Welcome!
 </h1>
 
-Japanese–Brazilian software engineer and Google AI Student Ambassador. École 42 (Paris/Tokyo) graduate, currently at Tokyo University of Foreign Studies.
+Japanese–Brazilian software engineer and Google AI Student Ambassador. Graduate of École 42 (Paris/Tokyo), currently at Tokyo University of Foreign Studies. Passionate about iOS app development and language learning.
 
 <h3> 📚 Latest Blog Posts </h3>
 
