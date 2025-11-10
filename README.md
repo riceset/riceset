@@ -8,8 +8,8 @@ Japanese–Brazilian software engineer and Google AI Student Ambassador. École 
 
 <!-- BLOG-POST-LIST:START -->
 - [Komeno](https://riceset.com/)
+- [Dictionary](https://riceset.com/Swift/Dictionary)
 - [NeoMnemo](https://riceset.com/Swift/NeoMnemo)
-- [Understanding Binary Insertion Sort](https://riceset.com/Algorithms/Understanding-Binary-Insertion-Sort)
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🎙 YouTube </h3>
