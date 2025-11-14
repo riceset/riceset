@@ -2,7 +2,7 @@
   👋 Welcome!
 </h1>
 
-Japanese–Brazilian software engineer. École 42 alum, currently at Tokyo University of Foreign Studies. Passionate about iOS app development and language learning.
+Japanese–Brazilian software engineer and indie iOS app developer.
 
 <h3> 📚 Latest Blog Posts </h3>
 
