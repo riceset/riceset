@@ -8,8 +8,8 @@ Japanese–Brazilian software engineer and indie iOS developer.
 
 <!-- BLOG-POST-LIST:START -->
 - [Komeno](https://riceset.com/)
-- [MVVM + Clean](https://riceset.com/Swift/MVVM-+-Clean)
 - [Dictionary](https://riceset.com/Swift/Dictionary)
+- [NeoMnemo](https://riceset.com/Swift/NeoMnemo)
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🎙 YouTube </h3>
