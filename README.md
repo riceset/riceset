@@ -2,8 +2,6 @@
   👋 Welcome!
 </h1>
 
-Japanese–Brazilian software engineer and indie iOS developer.
-
 <h3> 📚 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
