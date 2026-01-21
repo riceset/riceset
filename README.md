@@ -2,7 +2,7 @@
   👋 Welcome!
 </h1>
 
-iOS Developer at MIXI[https://mixi.co.jp/].
+iOS Developer at [MIXI, Inc.](https://mixi.co.jp/)
 
 <h3> 📚 Latest Blog Posts </h3>
 
