@@ -6,8 +6,8 @@ iOS Developer at [MIXI, Inc.](https://mixi.co.jp/)
 
 <h3> ✨ Previously </h3>
 
-- Student at [École 42](https://42.fr/) (Tokyo Campus)
-- [AI Student Ambassador](https://blog.google/intl/ja-jp/feed/google-ai/) at Google Japan
+- 🇫🇷 Student at [École 42](https://42.fr/) (Tokyo Campus)
+- 🤖 [AI Student Ambassador](https://blog.google/intl/ja-jp/feed/google-ai/) at Google Japan
 
 <h3> 📚 Latest Blog Posts </h3>
 
