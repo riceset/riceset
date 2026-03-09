@@ -36,11 +36,11 @@ iOS Developer at [MIXI, Inc.](https://mixi.co.jp/)
 - 🇯🇵 Japanese
 - 🇺🇸 English
 
-<h4> 💼 Limited Working Proficiency </h4>
+<h4> 💼 Professional Working Proficiency </h4>
 
 - 🇪🇸 Spanish
 
-<h4> 📖 Elementary Proficiency </h4>
+<h4> 📖 Limited Working Proficiency </h4>
 
 - 🇹🇼 Taiwanese Mandarin
 - 🇨🇳 Chinese Mandarin
