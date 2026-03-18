@@ -13,8 +13,8 @@ Intern at [MIXI, Inc.](https://mixi.co.jp/)
 
 <!-- BLOG-POST-LIST:START -->
 - [Komeno](https://riceset.com/)
-- [Dictionary](https://riceset.com/Swift/Dictionary)
-- [NeoMnemo](https://riceset.com/Swift/NeoMnemo)
+- [Building a Mandarin Dictionary](https://riceset.com/Swift/Dictionary)
+- [NeoMnemo: My Submission for the 2025 Swift Student Challenge](https://riceset.com/Swift/NeoMnemo)
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🎙 YouTube </h3>
