@@ -2,10 +2,11 @@
   👋 Welcome!
 </h1>
 
-Intern at [MIXI, Inc.](https://mixi.co.jp/)
+Software Developer
 
 <h3> ✨ Previously </h3>
 
+- 🎮 Intern at [MIXI, Inc.](https://mixi.co.jp/)
 - 🇫🇷 Student at [École 42](https://42.fr/) (Tokyo Campus / Alumni)
 - 🧑‍🎓 [Student Ambassador](https://blog.google/intl/ja-jp/feed/google-ai/) at Google Japan
 
