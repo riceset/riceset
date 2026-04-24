@@ -6,7 +6,7 @@ Software Developer
 
 <h3> ✨ Previously </h3>
 
-- 🎮 Intern at [MIXI, Inc.](https://mixi.co.jp/)
+- 🎮 SWE Intern at [MIXI, Inc.](https://mixi.co.jp/)
 - 🍎 Apple [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/) 2026 Winner
 - 🇫🇷 Student at [École 42](https://42.fr/) (Tokyo Campus / Alumni)
 - 🧑‍🎓 [Student Ambassador](https://blog.google/intl/ja-jp/feed/google-ai/) at Google Japan
