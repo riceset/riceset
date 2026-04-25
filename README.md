@@ -2,7 +2,7 @@
   👋 Welcome!
 </h1>
 
-🇯🇵🇧🇷 Japanese-Brazilian Software Developer
+Japanese-Brazilian Software Developer
 
 <h3> ✨ Previously </h3>
 
