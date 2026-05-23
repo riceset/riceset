@@ -47,6 +47,10 @@ Japanese-Brazilian Software Developer @ [BaseMe](https://baseme.app/)
 - 🇹🇼 Taiwanese Mandarin
 - 🇨🇳 Chinese Mandarin
 
+<h4> 👶 Elementary Proficiency </h4>
+
+- 🇫🇷 French
+
 <h2> 🚀 École 42 Curriculum </h2>
 
 <div align="center">
