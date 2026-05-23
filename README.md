@@ -2,7 +2,7 @@
   👋 Welcome!
 </h1>
 
-Japanese-Brazilian Software Developer at [BaseMe Inc](https://baseme.app/).
+Japanese-Brazilian Software Developer at [BaseMe Inc.](https://baseme.app/)
 
 <h3> ✨ Previously </h3>
 
