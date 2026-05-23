@@ -2,11 +2,11 @@
   👋 Welcome!
 </h1>
 
-Japanese-Brazilian Software Developer @ [BaseMe](https://baseme.app/)
+Japanese-Brazilian Software Developer at [BaseMe Inc](https://baseme.app/).
 
 <h3> ✨ Previously </h3>
 
-- 🎮 SWE Intern at [MIXI, Inc.](https://mixi.co.jp/)
+- 🎮 SWE Intern at [MIXI Inc.](https://mixi.co.jp/)
 - 🍎 Apple [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/) 2026 Winner
 - 🇫🇷 Student at [École 42](https://42.fr/) (Tokyo Campus / Alumni)
 - 🧑‍🎓 [Student Ambassador](https://blog.google/intl/ja-jp/feed/google-ai/) at Google Japan
