@@ -38,18 +38,10 @@ Japanese-Brazilian Software Developer at [BaseMe Inc.](https://baseme.app/)
 - 🇯🇵 Japanese
 - 🇺🇸 English
 
-<h4> 💼 Professional Working Proficiency </h4>
-
-- 🇪🇸 Spanish
-
 <h4> 📖 Limited Working Proficiency </h4>
 
-- 🇹🇼 Taiwanese Mandarin
-- 🇨🇳 Chinese Mandarin
-
-<h4> 👶 Elementary Proficiency </h4>
-
-- 🇫🇷 French
+- 🇪🇸 Spanish
+- 🇨🇳 Mandarin
 
 <h2> 🚀 École 42 Curriculum </h2>
 
