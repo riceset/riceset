@@ -14,9 +14,9 @@ Japanese-Brazilian Software Developer at [BaseMe Inc.](https://baseme.app/)
 <h3> 📚 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Komeno](https://riceset.com/)
 - [Learning Mandarin While Vibe Coding](https://riceset.com/Learning-Mandarin-While-Vibe-Coding)
 - [My Internship Experience at MIXI](https://riceset.com/MIXI-Internship)
+- [Building a Mandarin Dictionary](https://riceset.com/Dictionary)
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🎙 YouTube </h3>
