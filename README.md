@@ -30,19 +30,6 @@ Japanese-Brazilian Software Developer at [BaseMe Inc.](https://baseme.app/)
 ![overview](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/overview.svg)
 ![languages](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/languages.svg)
 
-<h2> 🌱 Languages </h2>
-
-<h4> 🌐 Native or Bilingual Proficiency </h4>
-
-- 🇧🇷 Portuguese
-- 🇯🇵 Japanese
-- 🇺🇸 English
-
-<h4> 📖 Limited Working Proficiency </h4>
-
-- 🇪🇸 Spanish
-- 🇨🇳 Mandarin
-
 <h2> 🚀 École 42 Curriculum </h2>
 
 <div align="center">
