@@ -2,19 +2,19 @@
   👋 Welcome!
 </h1>
 
-Japanese-Brazilian Software Developer.
+Japanese-Brazilian Software Developer
 
 <h3> ✨ Currently </h3>
 
-- ♾️ Eight Engineering Unit Application Engineer at [Sansan](https://www.corp-sansan.com/).
-- 🐻 iOS Application Engineer at [LY Corporation](https://www.lycorp.co.jp/en/).
-- 👦🏻 Full-Stack Software Engineer at [BaseMe](https://baseme.app/).
+- ♾️ Eight Engineering Unit Application Engineer at [Sansan](https://www.corp-sansan.com/)
+- 🐻 iOS Application Engineer at [LY Corporation](https://www.lycorp.co.jp/en/)
+- 👦🏻 Full-Stack Software Engineer at [BaseMe](https://baseme.app/)
 
 
 <h3> ⏳ Previously </h3>
 
 - 🧑‍🎓 [Student Ambassador](https://blog.google/intl/ja-jp/feed/google-ai/) at Google Japan
-- 📣 Conference Speaker at [iPlayground 2026](https://iplayground.io/2026/).
+- 📣 Conference Speaker at [iPlayground 2026](https://iplayground.io/2026/)
 - 🍎 Apple [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/) 2026 Winner
 - 🇫🇷 Student at [École 42](https://42.fr/) (Tokyo Campus / Alumni)
 - 🎮 Digital Album Domain Engineer Intern at [MIXI Inc.](https://mixi.co.jp/)
