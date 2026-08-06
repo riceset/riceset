@@ -2,7 +2,7 @@
   👋 Welcome!
 </h1>
 
-Japanese-Brazilian Software Developer at [BaseMe Inc.](https://baseme.app/)
+Japanese-Brazilian Software Developer at [BaseMe Inc.](https://baseme.app/) • Currently interning at [Sansan](https://www.corp-sansan.com/) and [LY Corporation](https://www.lycorp.co.jp/en/).
 
 <h3> ✨ Previously </h3>
 
