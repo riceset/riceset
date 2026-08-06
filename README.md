@@ -6,6 +6,7 @@ Japanese-Brazilian Software Developer at [BaseMe](https://baseme.app/). Currentl
 
 <h3> ✨ Previously </h3>
 
+- 📣 Conference Speaker at [iPlayground 2026](https://iplayground.io/2026/).
 - 🎮 SWE Intern at [MIXI Inc.](https://mixi.co.jp/)
 - 🍎 Apple [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/) 2026 Winner
 - 🇫🇷 Student at [École 42](https://42.fr/) (Tokyo Campus / Alumni)
