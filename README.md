@@ -32,15 +32,9 @@ timeline
 -->
 
 <!-- BLOG-POST-LIST:START -->
-
-<!--
-
 - [The Story Behind My Swift Student Challenge Winning Submission](https://riceset.com/Swift-Student-Challenge-2026)
 - [My Internship Experience at MIXI](https://riceset.com/MIXI-Internship)
 - [Building a Mandarin Dictionary](https://riceset.com/Dictionary)
-
--->
-
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 
