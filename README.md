@@ -2,6 +2,14 @@
   👋 Welcome!
 </h1>
 
+<h3> 💻 Experience </h3>
+
+- **LY Corporation** · iOS Engineer Intern, LINE
+- **Sansan** · iOS Engineer Intern, Eight
+- **BaseMe** · Full-Stack Engineer (part-time)
+- **MIXI** · iOS Engineer Intern, FamilyAlbum
+- **Google Japan** · Student Ambassador
+
 <h3> 📚 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
@@ -15,7 +23,6 @@
 - [iPlayground Taiwan: How to Win the Swift Student Challenge⁠](https://youtu.be/t9sC0nL-uTA?si=3gvgmF0OgeNmG3X6)
 - [42 Tokyo × 42 Seoul Collaboration: The 42 Live Radio Show](https://youtu.be/5y_IXv28g5I)
 - [Vim tutorial at 42 São Paulo's podcast Fora da Norma](https://www.youtube.com/watch?v=10BSs7UGBtY)
-- [Introduction to linked lists in C](https://www.youtube.com/watch?v=5AsUZgGCG3c)
 
 <h2> 🎉 GitHub Status </h2>
 
