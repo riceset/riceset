@@ -7,10 +7,10 @@
 ```mermaid
 timeline
     Aug 2025 : Student Ambassador at Google Japan
-    Jan 2026 : iOS Engineer Intern at MIXI
+    Jan 2026 : iOS Intern at MIXI (FamilyAlbum)
     May 2026 : Full Stack Engineer at BaseMe
-    Aug 2026 : iOS Engineer Intern at LY Corporation
-             : iOS Engineer Intern at Sansan
+    Aug 2026 : iOS Intern at LY Corporation (LINE)
+             : iOS Intern at Sansan (Eight)
 ```
 
 <h3> 📦 Latest Blog Posts </h3>
