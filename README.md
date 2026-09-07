@@ -1,5 +1,6 @@
 <h1>
-  👋 Welcome!
+  <sub><img src="./assets/blue.svg" alt="My logo" width="36"></sub>
+  Welcome!
 </h1>
 
 <h3> 🌱 Experience </h3>
