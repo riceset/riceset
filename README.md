@@ -2,7 +2,7 @@
   👋 Welcome!
 </h1>
 
-<h3> 💼 Experience </h3>
+<h3> 🧑‍💻 Experience </h3>
 
 - **LY Corporation** · iOS Engineer Intern, LINE
 - **Sansan** · iOS Engineer Intern, Eight
