@@ -8,9 +8,13 @@ I work mainly on iOS. Lately, I’ve been exploring on-device AI and the ways so
 
 <p align="right">
   <picture>
-    <img src="./assets/signature.svg" alt="Komeno signature" width="220">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/signature-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/signature-light.svg">
+    <img src="./assets/signature-light.svg" alt="Komeno signature" width="220">
   </picture>
 </p>
+
+<!--
 
 <h3> 🌱 Experience </h3>
 
@@ -25,11 +29,21 @@ timeline
 
 <h3> 📦 Latest Blog Posts </h3>
 
+-->
+
 <!-- BLOG-POST-LIST:START -->
+
+<!--
+
 - [The Story Behind My Swift Student Challenge Winning Submission](https://riceset.com/Swift-Student-Challenge-2026)
 - [My Internship Experience at MIXI](https://riceset.com/MIXI-Internship)
 - [Building a Mandarin Dictionary](https://riceset.com/Dictionary)
+
+-->
+
 <!-- BLOG-POST-LIST:END -->
+
+<!-- 
 
 <h3> 🎙 YouTube </h3>
 
@@ -42,7 +56,6 @@ timeline
 ![overview](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/overview.svg)
 ![languages](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/languages.svg)
 
-<!--
 <h2> 🚀 École 42 Curriculum </h2>
 
 <div align="center">
@@ -65,4 +78,5 @@ timeline
 | <div align="center">[transcendence](https://github.com/riceset/transcendence)</div> | The final project was a full-stack website that lets users play the classic game Pong. I was responsible for the front end, including implementing the 2FA page and other interface components. | <div align="center">✅</div> |
 
 </div>
+
 -->
