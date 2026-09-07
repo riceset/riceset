@@ -12,7 +12,7 @@
 
 <h3> 🎙 YouTube </h3>
 
-- [iPlayground Taiwan: 如何贏得 Swift Student Challenge⁠](https://youtu.be/t9sC0nL-uTA?si=3gvgmF0OgeNmG3X6)
+- [iPlayground Taiwan: How to Win the Swift Student Challenge⁠](https://youtu.be/t9sC0nL-uTA?si=3gvgmF0OgeNmG3X6)
 - [42 Tokyo × 42 Seoul Collaboration: The 42 Live Radio Show](https://youtu.be/5y_IXv28g5I)
 - [Vim tutorial at 42 São Paulo's podcast Fora da Norma](https://www.youtube.com/watch?v=10BSs7UGBtY)
 - [Introduction to linked lists in C](https://www.youtube.com/watch?v=5AsUZgGCG3c)
