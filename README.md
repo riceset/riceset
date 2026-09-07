@@ -4,11 +4,14 @@
 
 <h3> 🌱 Experience </h3>
 
-- **LY Corporation** · iOS Engineer Intern, LINE
-- **Sansan** · iOS Engineer Intern, Eight
-- **BaseMe** · Full-Stack Engineer (part-time)
-- **MIXI** · iOS Engineer Intern, FamilyAlbum
-- **Google Japan** · Student Ambassador
+```mermaid
+timeline
+    Aug 2025 : Student Ambassador at Google Japan
+    Jan 2026 : iOS Engineer Intern at MIXI
+    May 2026 : Full Stack Engineer at BaseMe
+    Aug 2026 : iOS Engineer Intern at LY Corporation
+             : iOS Engineer Intern at Sansan
+```
 
 <h3> 📦 Latest Blog Posts </h3>
 
