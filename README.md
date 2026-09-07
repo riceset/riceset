@@ -1,5 +1,9 @@
 <h1>
-  <sub><img src="./assets/blue.svg" alt="My logo" width="36"></sub>
+  <sub>
+    <picture>
+      <img src="./assets/blue.svg" alt="My logo" width="36">
+    </picture>
+  </sub>
   Welcome!
 </h1>
 
