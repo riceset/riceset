@@ -42,6 +42,7 @@ timeline
 ![overview](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/overview.svg)
 ![languages](https://raw.githubusercontent.com/tkomeno/github-stats-transparent/output/generated/languages.svg)
 
+<!--
 <h2> 🚀 École 42 Curriculum </h2>
 
 <div align="center">
@@ -64,3 +65,4 @@ timeline
 | <div align="center">[transcendence](https://github.com/riceset/transcendence)</div> | The final project was a full-stack website that lets users play the classic game Pong. I was responsible for the front end, including implementing the 2FA page and other interface components. | <div align="center">✅</div> |
 
 </div>
+-->
