@@ -2,7 +2,7 @@
   👋 Welcome!
 </h1>
 
-<h3> 🧑‍💻 Experience </h3>
+<h3> 🌱 Experience </h3>
 
 - **LY Corporation** · iOS Engineer Intern, LINE
 - **Sansan** · iOS Engineer Intern, Eight
@@ -10,7 +10,7 @@
 - **MIXI** · iOS Engineer Intern, FamilyAlbum
 - **Google Japan** · Student Ambassador
 
-<h3> 📚 Latest Blog Posts </h3>
+<h3> 📦 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [The Story Behind My Swift Student Challenge Winning Submission](https://riceset.com/Swift-Student-Challenge-2026)
