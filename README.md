@@ -28,9 +28,9 @@ timeline
 <h3> 📦 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Six Weeks Building at LINE](https://riceset.com/LINE-Internship)
+- [What I built at Sansan](https://riceset.com/Sansan-Internship)
 - [The Story Behind My Swift Student Challenge Winning Submission](https://riceset.com/Swift-Student-Challenge-2026)
-- [My Internship Experience at MIXI](https://riceset.com/MIXI-Internship)
-- [Building a Mandarin Dictionary](https://riceset.com/Dictionary)
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🎙 YouTube </h3>
