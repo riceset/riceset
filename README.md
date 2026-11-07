@@ -28,9 +28,9 @@ timeline
 <h3> 📦 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [About](https://riceset.com/about)
+- [Articles](https://riceset.com/articles)
 - [Six Weeks Building at LINE](https://riceset.com/LINE-Internship)
-- [What I built at Sansan](https://riceset.com/Sansan-Internship)
-- [The Story Behind My Swift Student Challenge Winning Submission](https://riceset.com/Swift-Student-Challenge-2026)
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🎙 YouTube </h3>
