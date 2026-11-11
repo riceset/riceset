@@ -8,8 +8,8 @@ I work mainly on iOS. Lately, I’ve been exploring on-device AI and the ways so
 
 <p align="right">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/signature-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/signature-black.svg">
-    <img src="./assets/signature-black.svg" alt="Komeno signature" width="220">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/signature-white.svg?v=54f09f2">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/signature-black.svg?v=54f09f2">
+    <img src="./assets/signature-black.svg?v=54f09f2" alt="Komeno signature" width="220">
   </picture>
 </p>
