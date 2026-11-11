@@ -10,6 +10,6 @@ I work mainly on iOS. Lately, I’ve been exploring on-device AI and the ways so
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/signature-white.svg?v=54f09f2">
     <source media="(prefers-color-scheme: light)" srcset="./assets/signature-black.svg?v=54f09f2">
-    <img src="./assets/signature-black.svg?v=54f09f2" alt="Komeno signature" width="140">
+    <img src="./assets/signature-black.svg?v=54f09f2" alt="Komeno signature" width="180">
   </picture>
 </p>
